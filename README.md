@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishantg&label=Profile%20views&color=0e75b6&style=flat" alt="krishantg" /> </p>
 
-- 🔭 My project [Encyptify](https://tamiltechonology.rf.gd/)
+- 🔭 My project [Outfit Oracle](https://krishanthg.github.io/Outfit_Oracle/)
 
 - 🌱 I’m currently learning **Java Script**
 

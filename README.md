@@ -9,10 +9,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 ### 🚀 About Me
-- 🔭 Currently working on: **[Outfit Oracle – AI Fashion Recommendation System](https://krishanthg.github.io/Outfit_Oracle/)**
-- 🌱 Learning: **JavaScript**
-- 💬 Ask me about: **AI, Tech, Computer Vision, Python**
-- 🔗 Connect with me: **[LinkedIn](https://www.linkedin.com/in/krishanth-g/)**
+- 🔭 Currently working on: **[MakeMyQR – AI-augmented QR Code Generator](https://krishanthg.github.io/MakeMyQR/)**  
+- 🌱 Learning: **JavaScript**  
+- 💬 Ask me about: **AI, Tech, Computer Vision, Python**  
+- 🔗 Connect with me: **[LinkedIn](https://www.linkedin.com/in/krishanth-g/)**  
 - 👁 Profile Views:  
   ![Profile views](https://komarev.com/ghpvc/?username=krishantg&label=Visitors&color=00eaff&style=flat)
 
@@ -47,20 +47,18 @@
 
 ---
 
-# 🔥 Featured Project: Outfit Oracle  
-### 🧥✨ AI-Powered Fashion Prediction Engine  
+# 🔥 Featured Project: MakeMyQR  
+### 📱✨ AI-Augmented QR Code Generator  
 👉 **Try it now:**  
-### 🚀 [⚡ Launch Outfit Oracle](https://krishanthg.github.io/Outfit_Oracle/)
+### 🚀 [⚡ Launch MakeMyQR](https://krishanthg.github.io/MakeMyQR/)
 
 ---
 
 # 📊 GitHub Stats  
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanthg&show_icons=true&locale=en&layout=compact&theme=radical" height="180"/>
+<p align="left">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanthg&show_icons=true&locale=en&layout=compact&theme=radical" height="180"/>  
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=krishanthg&show_icons=true&locale=en&theme=radical" height="200"/>
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=krishanthg&show_icons=true&locale=en&theme=radical" height="200"/>  
 </p>
-
----

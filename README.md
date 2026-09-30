@@ -266,17 +266,23 @@ Improving
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KrishanthG&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=KrishanthG&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+  alt="GitHub Trophies"
+/>
 
 </div>
-
 ---
 
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishanthG&hide_border=true&area=true&bg_color=transparent&color=0ea5e9&line=14b8a6&point=0ea5e9" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=KrishanthG&bg_color=00000000&color=0ea5e9&line=14b8a6&point=0ea5e9&area=true&hide_border=true"
+  alt="Krishanth G GitHub Activity Graph"
+  width="100%"
+/>
 
 </div>
 

@@ -1,203 +1,262 @@
 <!-- =========================================================
-     KRISHANTH G — PROFESSIONAL GITHUB PROFILE README
+     KRISHANTH G — PREMIUM GITHUB PROFILE
      ========================================================= -->
 
-<!-- HERO SECTION -->
+<!-- ======================= HERO ======================= -->
 
 <div align="center">
 
-# 👋 Hey, I'm **Krishanth G**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KRISHANTH%20G&fontSize=55&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn&fontColor=ffffff&color=0:020617,50:0f172a,100:0e7490" width="100%"/>
 
-### Python Developer • AI Enthusiast • Full-Stack Learner
+<br>
 
-**Building with Python, AI & modern web technologies.**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&height=50&lines=Python+Developer+%F0%9F%90%8D;AI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8C%90;Building+with+Python+%26+AI+%E2%9A%A1;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br>
 
 <a href="https://krishanthg.github.io/">
-  <img src="https://img.shields.io/badge/🌐%20Website-krishanthg.github.io-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-krishanthg.github.io-0f172a?style=for-the-badge&labelColor=020617" />
 </a>
+
+<a href="https://github.com/KrishanthG">
+<img src="https://img.shields.io/badge/GITHUB-KrishanthG-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/krishanth-g/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Krishanth%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://www.youtube.com/@TamilTechnology-YouTube/featured">
-  <img src="https://img.shields.io/badge/YouTube-Tamil%20Technology-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YOUTUBE-Tamil%20Technology-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=KrishanthG&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=KrishanthG&label=PROFILE%20VIEWS&style=for-the-badge&color=0e7490" />
 
 </div>
 
 ---
 
-<!-- PREMIUM BANNER -->
+<!-- ======================= INTRO ======================= -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdityaBhattacharya/AdityaBhattacharya/master/assets/banner.gif" width="100%" />
+## 👋 Hello, I'm Krishanth G
+
+### **Python Developer • AI Enthusiast • Technology Explorer**
+
+*Turning ideas into technology — one project at a time.*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧠 About Me
 
-I'm a dedicated **Python Developer and AI Enthusiast** passionate about building practical solutions with modern technologies.
+I'm a dedicated **Python Developer and AI Enthusiast** passionate about building practical solutions using modern technologies.
 
-I work across **Python, Web Development, Databases and AI-powered tools**, while continuously improving my development and problem-solving skills.
+My interests span across **Python development, full-stack technologies, databases and AI integration**, while continuously improving my technical and problem-solving skills.
 
-### 💡 What I Work With
+I believe in learning technology by **understanding → building → experimenting → improving**.
 
-* 🐍 **Python Development**
-* 🌐 **Full-Stack Web Development**
-* 🤖 **AI Integration**
-* 📚 **Continuous Learning & Growth**
-* 🚀 **Building Practical Technology Solutions**
-* 🤝 **Collaboration & Open-Source Development**
+### What drives me
 
-I use modern AI tools such as **ChatGPT** and **Microsoft Copilot** as development and learning assistants while focusing on understanding, building and improving real solutions.
+> **Learn deeply. Build practically. Improve continuously.**
+
+I use modern AI tools such as **ChatGPT** and **Microsoft Copilot** as development and learning assistants while focusing on understanding the technology behind the solutions.
 
 ---
 
-# 🎯 Focus Areas
+# ⚡ What I Focus On
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🐍 Python Development
+<td align="center" width="25%">
 
-Building applications and utilities using Python with an emphasis on practical problem solving, automation and clean development practices.
+### 🐍
 
-</td>
+### Python
 
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Proficiency
-
-Exploring both frontend and backend technologies to understand and build complete web applications.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Integration
-
-Exploring how AI can be integrated into software applications, development workflows and useful technology solutions.
+Development
+Automation
+Problem Solving
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 📈 Growth Mindset
+### 🤖
 
-Continuously learning new technologies, improving development skills and experimenting with new ideas.
+### AI
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Future Goals
-
-Expanding my technical knowledge while creating meaningful projects and technology-driven solutions.
+AI Integration
+Experimentation
+Smart Applications
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🤝 Collaboration
+### 🌐
 
-Interested in collaborating on interesting projects, open-source ideas and technology initiatives.
+### Full-Stack
+
+Frontend
+Backend
+Web Technologies
 
 </td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+### Growth
+
+Learning
+Building
+Improving
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🧩 What I Build
+# 💼 Core Strengths
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🐍  Python Development                                    │
+│                                                             │
+│   🌐  Full-Stack Proficiency                               │
+│                                                             │
+│   🤖  AI Integration                                       │
+│                                                             │
+│   📚  Continuous Learning                                  │
+│                                                             │
+│   🚀  Practical Technology Solutions                       │
+│                                                             │
+│   🤝  Collaboration & Open-Source Development              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ Technology Arsenal
 
 <div align="center">
 
-| Area                | Technologies / Focus                               |
-| ------------------- | -------------------------------------------------- |
-| 🐍 Programming      | Python, JavaScript, TypeScript, Java, C++, C#, PHP |
-| 🎨 Frontend         | HTML5, CSS3, React, Next.js                        |
-| ⚙️ Backend          | Node.js, Django, Flask                             |
-| 🗄️ Database        | MySQL, MongoDB                                     |
-| 🤖 AI               | AI-powered applications & integrations             |
-| ☁️ Cloud & DevOps   | Docker, Google Cloud                               |
-| 🛠️ Developer Tools | Git, VS Code, Figma, Postman, Vite                 |
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,php" />
+
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,gcp" />
+
+<br><br>
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite" />
 
 </div>
 
 ---
 
-# 🛠️ Technology Stack
+# 🧩 Technology Stack
 
-## 💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,cs,php" />
-</p>
-
-## 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-</p>
-
-## ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,django,flask" />
-</p>
-
-## 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-## ☁️ DevOps & Cloud
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,gcp" />
-</p>
-
-## 🧰 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite" />
-</p>
+| Domain                | Technologies                                       |
+| :-------------------- | :------------------------------------------------- |
+| 💻 **Programming**    | Python, JavaScript, TypeScript, Java, C++, C#, PHP |
+| 🎨 **Frontend**       | React, Next.js, HTML5, CSS3                        |
+| ⚙️ **Backend**        | Node.js, Django, Flask                             |
+| 🗄️ **Database**      | MySQL, MongoDB                                     |
+| ☁️ **DevOps & Cloud** | Docker, Google Cloud                               |
+| 🛠️ **Tools**         | Git, VS Code, Figma, Postman, Vite                 |
+| 🤖 **AI**             | AI Integration & AI-assisted Development           |
 
 ---
 
-# 📊 GitHub Dashboard
+# 🚀 Development Philosophy
+
+<div align="center">
+
+```text
+                 ┌──────────────┐
+                 │    LEARN     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │  UNDERSTAND  │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    BUILD     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │ EXPERIMENT   │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │   IMPROVE    │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    SHARE     │
+                 └──────────────┘
+```
+
+### **Learn → Understand → Build → Experiment → Improve**
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/KrishanthG">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrishanthG&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KrishanthG&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishanthG&layout=compact&langs_count=8&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishanthG&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KrishanthG&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KrishanthG&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -207,79 +266,79 @@ Interested in collaborating on interesting projects, open-source ideas and techn
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KrishanthG&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=KrishanthG&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
 ---
 
-# 📈 My Development Journey
+# 📈 Contribution Activity
 
 <div align="center">
 
-```text
-Learn
-  ↓
-Understand
-  ↓
-Build
-  ↓
-Experiment
-  ↓
-Improve
-  ↓
-Share
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishanthG&hide_border=true&area=true&bg_color=transparent&color=0ea5e9&line=14b8a6&point=0ea5e9" width="100%" />
 
 </div>
 
-I'm continuously working toward becoming a stronger developer by combining **fundamentals, practical development, AI-assisted workflows and real-world experimentation**.
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KrishanthG/KrishanthG/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Find Me Online
 
 <div align="center">
 
 <a href="https://krishanthg.github.io/">
-<img src="https://img.shields.io/badge/Website-krishanthg.github.io-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20WEBSITE-Visit%20Portfolio-020617?style=for-the-badge" />
 </a>
 
+<br><br>
+
 <a href="https://github.com/KrishanthG">
-<img src="https://img.shields.io/badge/GitHub-KrishanthG-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-KrishanthG-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/krishanth-g/">
-<img src="https://img.shields.io/badge/LinkedIn-Krishanth%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@TamilTechnology-YouTube/featured">
-<img src="https://img.shields.io/badge/YouTube-Tamil%20Technology-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YOUTUBE-Tamil%20Technology-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 💬 Developer Philosophy
+# 💬 My Philosophy
 
 <div align="center">
 
 ### **"Keep Learning. Keep Building. Keep Improving."**
 
+<br>
+
 Technology is not just about knowing tools.
 
-It's about **understanding problems, building solutions and continuously improving.**
+It's about **understanding problems, creating solutions and continuously improving.**
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 👀 Profile
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KrishanthG/KrishanthG/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+<img src="https://komarev.com/ghpvc/?username=KrishanthG&label=TOTAL%20PROFILE%20VIEWS&style=for-the-badge&color=0891b2" />
 
 </div>
 
@@ -287,17 +346,21 @@ It's about **understanding problems, building solutions and continuously improvi
 
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
+## 🚀 Let's Build Something Meaningful
 
-**Let's build something meaningful with technology.**
-
-<br>
-
-⭐ **Explore my repositories • Connect with me • Let's collaborate**
+### **Code • Create • Learn • Innovate**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:14b8a6&height=100&section=footer" width="100%" />
+<a href="https://krishanthg.github.io/">
+
+**🌐 Visit My Portfolio →**
+
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=fadeIn&color=0:020617,50:0f172a,100:0e7490" width="100%"/>
 
 </div>
 
